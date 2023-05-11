@@ -1,0 +1,6 @@
+.scheduler_default_corner > div:last-child {
+    display: none !important;
+}
+.scheduler_default_event_inner {
+    background: #9bdf9b !important;
+}
